@@ -1,4 +1,4 @@
-namespace DotNetCoreWeb_App.Models
+namespace BulkyMVCUnitOfWork.Models
 {
     public class ErrorViewModel
     {
